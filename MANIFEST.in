@@ -1,0 +1,2 @@
+recursive-include unweb *
+global-exclude *pyc

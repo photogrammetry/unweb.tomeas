@@ -1,0 +1,16 @@
+*.pyc
+Paste*
+*egg-info
+.installed.cfg
+.mr.developer.cfg
+bin/
+include/
+lib/
+eggs/
+develop-eggs/
+parts/
+var/
+versions-devel.cfg
+
+
+
